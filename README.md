@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kibali-cell
+- 👋 Hi, I’m @JONAS KIWIA
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning   COMPUTER Science
+- 🌱 I’m currently self-teaching programming
 - 💞️ I’m looking to collaborate on ... CODING
-- 📫 How to reach me ...jonaskiwi1@gmail.com
+- 📫 How to reach me ...jonaskiwia1@gmail.com
 
 <!---
 kibali-cell/kibali-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
